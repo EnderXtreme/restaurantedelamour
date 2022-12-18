@@ -1,0 +1,114 @@
+{
+    "pratos": [
+        {
+            "id": 1,
+            "snack": "prato",
+            "name": "Arroz de Carreteiro",
+            "description": "Prato típico da Região sul do Brasil, invenção dos tropeiros das fazendas de gado composto por arroz branco cozido com charque ( carne seca ), cebola, tomate e especiarias, finalizado com ovo cozido em cima.",
+            "price": 59.50,
+            "image": "https://i.imgur.com/upjIUnG.jpg"
+        },
+        {
+            "id": 2,
+            "snack": "prato",
+            "name": "Acarajé",
+            "description": "Especialidade da gastronomia afro-brasileira, feita de uma bolinha de massa de feijão fradinho, cebola e sal. Frita no azeite de dendê e recheada com Vatapá ( Creme feito com base de farinha de rosca, fubá, gengibre, pimenta-malagueta, amendoim, cravo, castanha de caju, leite de coco, azeite de dendê, cebola, alho e tomate ). Finalizado com Camarões em cima.",
+            "price": 43.50,
+            "image": "https://i.imgur.com/B4J04AJ.jpg"
+        },
+        {
+            "id": 3,
+            "snack": "prato",
+            "name": "Baião de Dois",
+            "description": "Prato típico da região Nordeste e partes da região Norte do Brasil, é composto por arroz branco e feijão-de-corda refogados com carne seca, lombo de porco, bacon, alho, cebola roxa e especiarias em manteiga de garrafa e finalizado com queijo coalho frito.",
+            "price": 37.50,
+            "image": "https://i.imgur.com/Jz506jB.jpg"
+        },
+        {
+            "id": 4,
+            "snack": "prato",
+            "name": "Camarão na Massa de Banana",
+            "description": "O nosso prato queridinho, especialidade da casa feito com camarões temperados com sal, limão e pimenta fritos em massa com base de banana e acompanhados do nosso molho especial feito com castanhas-de-caju.",
+            "price": 35.00,
+            "image": "https://i.imgur.com/bF8EdBb.jpg"
+        },
+        {
+            "id": 5,
+            "snack": "prato",
+            "name": "Cuscuz Paulista",
+            "description": "Criado a partir do cuscuz berbere que foi modificado com influências indígena e de imigrantes europeus e sendo incorporado como ingrediente principal a farinha de milho. Cuscuz feito de farinha de milho e de mandioca, cozidos em um refogado de tomate, cebola, alho, pimentão, palmito, ervilha, azeitona, frango e especiarias e finalizado com ovo cozido.",
+            "price": 29.00,
+            "image": "https://i.imgur.com/fdEY2kY.jpg"
+        }
+    ],
+    "Bebidas": [
+        {
+            "id": 1,
+            "snack": "bebida",
+            "name": "Vinho Cabernet Sauvignon Garrafa 750ml",
+            "description": "Cabernet Sauvignon é uma das variedades mais populares do mundo. É a uva tinta predileta de muitos produtores e enólogos. Apresenta a grande vantagem de adaptar-se facilmente a diversos terrois e condições climáticas. Um dos grandes diferenciais da Cabernet Sauvignon é a sua casca, ela é mais grossa e rica em taninos.",
+            "price": 69.00,
+            "image": "https://i.imgur.com/5rjJGkV.jpg"
+        },
+        {
+            "id": 2,
+            "snack": "bebida",
+            "name": "Água Voss 750mL",
+            "description": "VOSS é a água mais pura do mundo. Ela é captada em um aquífero longe de qualquer forma de poluição, em plena natureza selvagem do sul da Noruega, no deserto gelado, sob uma formação rochosa subterrânea. Originária de uma fonte natural, não é filtrada e contém apenas um total de 22 mg de sólidos dissolvidos.",
+            "price": 79.50,
+            "image": "https://i.imgur.com/WCoyGoI.png"
+        },
+        {
+            "id": 3,
+            "snack": "bebida",
+            "name": "Champagne Perrier Jouet Belle Epoque Brut 750ml",
+            "description": "Perrier-Jouët Belle Epoque Brut reflete a qualidade dos vinhedos da Maison Perrier-Jouët, com classificação de 99,2% na escala échelle de crus. Seu blend complexo apresenta elegância, mineralidade e harmonia.Sua icônica garrafa, é uma verdadeira preciosidade com suas inconfundíveis anêmonas japonesas, desenvolvidas em 1902 por Emile Gallé, um dos maiores expoentes da Art Nouveau, homenagem a delicadeza floral e a pureza dos vinhos Perrier-Jouët elaborados com a emblemática Chardonnay de Cramant. ",
+            "price": 290.00,
+            "image": "https://i.imgur.com/BuXrO8d.jpg"
+        }
+        
+    ],
+    
+    "ice-creams": [
+        {
+            "id": 1,
+            "snack": "ice-cream",
+            "name": "Casquinha",
+            "description": "A casquinha crocante e saborosa que nossos clientes amam.",
+            "price": 4.5,
+            "image": "https://i.imgur.com/YGmeoCm.jpg"
+        },
+        {
+            "id": 2,
+            "snack": "ice-cream",
+            "name": "Chocolate com granulado",
+            "description": "Sorvete de chocolate com granulados em chocolate para você se deliciar.",
+            "price": 6,
+            "image": "https://i.imgur.com/osAHOLe.jpg"
+        },
+        {
+            "id": 3,
+            "snack": "ice-cream",
+            "name": "Flocos",
+            "description": "O tradicional flocos vem com cobertura em chocolate para adocicar seu dia.",
+            "price": 7,
+            "image": "https://i.imgur.com/qgnFLiy.jpg"
+        },
+        {
+            "id": 4,
+            "snack": "ice-cream",
+            "name": "Creme",
+            "description": "O simples sorvete de creme com um gosto irresistível.",
+            "price": 6.5,
+            "image": "https://i.imgur.com/dFLysrT.jpg"
+        },
+        {
+            "id": 5,
+            "snack": "ice-cream",
+            "name": "Morango",
+            "description": "O clássico sorvete de morango que deixe tudo mais leve.",
+            "price": 10,
+            "image": "https://i.imgur.com/0TWnEI7.jpg"
+        }
+    ]
+}
